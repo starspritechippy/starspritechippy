@@ -1,12 +1,13 @@
 ## Heyo
 ### The name's Chippy, good to see you here!
 
-I usually mess around with Python, creating Discord bots and little scripts in the process. APIs and Image processing are other things I'm currently looking into. I've recently started looking into the Rust programming language and while the journey so far has been a little rough, I'm determined to see this through to the end.  
+It's been a rough journey so far, coding on-and-off for and long periods of drought in between, but I'm working to change that soon! I've mainly been using Python but also dabbling in JS/TS and Rust from time to time. The preference is with Python of course since I know that better.
 
-Fun fact: I actually started learning Python to make a Discord bot. The motivation was mainly "let's give this a try" :D
+Fun fact: I actually started my programming journey with Python, trying to make a Discord bot. The motivation was mainly "let's give this a try" :D
 
-At the moment, I'm programming mainly for personal projects, but I'm interested to see what working in a team is like.   
-You can contact me on [Discord](https://discord.com/users/811315518555422802), this is where I'm most active at the moment.
+At the moment, I'm programming mainly for personal projects, but I'm interested to see what working in a team is like.
+
+Hoping to fill this page up more as I get more into coding again. 
 
 -- stats time --  
 [![github stats](https://github-readme-stats.vercel.app/api?username=starspritechippy&theme=dracula&show_icons=true&title_color=56c3e6)](https://github.com/anuraghazra/github-readme-stats)
